@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: epqe1r18o-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/epqe1r18o-go
